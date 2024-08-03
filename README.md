@@ -1,3 +1,7 @@
+"SpeakEasy" implies making speaking a language easy and accessible. It suggests a relaxed and informal environment where users can practice and improve their language skills without the pressure often associated with traditional learning methods.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
